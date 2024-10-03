@@ -1,5 +1,5 @@
 #Dever de casa
-tamanho_do_aro_da_roda = int(input("qual é o tamanho do seu aro?"))
+tamanho_do_aro_da_roda = float(int(input("qual é o tamanho do seu aro?")))
 tamanho_do_quidão = tamanho_do_aro_da_roda /2
 tamanho_da_manete = tamanho_do_aro_da_roda / 1/4
 tamanho_do_quadro = tamanho_do_aro_da_roda
